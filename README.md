@@ -4,8 +4,7 @@ Hi 👋 My name is Vaibhav Singh
 Front-end Developer
 -------------------
 
-Passionate about crafting delightful user experiences with HTML, CSS & JavaScript! 
-On a journey to master the art of responsive web design and create pixel-perfect websites.
+Passionate about crafting delightful user experiences with HTML, CSS & JavaScript! On a journey to master the art of responsive web design and create pixel-perfect websites.
 
 * 🌍  I'm based in INDIA.
 * ✉️  You can contact me at [singhvaibhav0710@gmail.com](mailto:singhvaibhav0710@gmail.com)
@@ -23,5 +22,4 @@ On a journey to master the art of responsive web design and create pixel-perfect
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/vaibhavsingh-07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="http://www.instagram.com/vaibhavsingh_07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/vaibhavsingh-07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
